@@ -19,6 +19,16 @@
   "to": "0",
   "link": "0"
  },
+    {
+  "name": "allgun.zip",
+  "title": "Arrow Skin Paks",
+  "dep": "3.2 All PUBGM Support 32/64bit and Main ID Safe.ғᴇᴀᴛᴜʀᴇs♨️ ᴅʀᴀᴋʀᴇɢɪɴ ᴏɴ ʜɪᴛ(ᴀʟʟ ɢᴜɴs)♨️ ʜᴇᴀᴅsʜᴏᴛ*♨️ ʜɪɢʜ ᴅᴀᴍᴀɢᴇ♨️ ᴀɴᴛɪ ʀᴇsᴇᴛ♨️ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs",
+  "cv": "https://i.imgur.com/OFw2fSJ.jpeg",
+  "main": "/storage/emulated/0/Download/allgun.zip",
+  "from": "/storage/emulated/0/Download/allgun.zip",
+  "to": "/files/UE4Game/ShadowTrackerExtra/Epic Games/",
+  "link": "https://firebasestorage.googleapis.com/v0/b/icemods-vip-pannel.appspot.com/o/allgun.zip?alt=media&token=0eac03cc-bfe8-4f25-b2fb-c7cdf711cb39",
+ },
  {
   "name": "allgun.zip",
   "title": "All Guns Drakreign On Hit Effect",
